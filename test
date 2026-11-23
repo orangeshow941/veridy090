@@ -1,0 +1,6 @@
+dic_asd={"Katrina": 89, "Vaani": 87, "Sara": 90, "Noami": 86, "Soairse": 92}
+n=int(input("what is the class avages what do u think"))
+
+sum = 89+87+89+90+86+92
+avages = sum / 5
+print(avages)
